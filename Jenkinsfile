@@ -49,7 +49,7 @@ pipeline {
 
     
       }
-      echo 'App deployed!'
+      echo 'App deployed! successfully'
       }
     } 
   stage('clean up') {
